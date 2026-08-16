@@ -1,8 +1,0 @@
-yfinance
-pandas
-numpy
-matplotlib
-pillow
-requests
-pandas_market_calendars
-pytz
